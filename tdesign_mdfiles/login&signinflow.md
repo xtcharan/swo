@@ -52,13 +52,13 @@ These are the first two screens every user will interact with.
 |                                           |
 |          Join the Community               |
 |                                           |
-|     How would you like to sign up?        |
+|             |
 |                                           |
 |   +-----------------------------------+   |
 |   |                                   |   |
 |   |       I am a DBC Student          |   |
-|   |  _Activate your account using     |   |
-|   |   your official Register Number_  |   |
+|   |  _   Activate your account    |   |
+|   |   
 |   |                                   |   |
 |   +-----------------------------------+   |
 |                                           |
@@ -87,12 +87,11 @@ These are the core data collection forms for new users.
 |          Activate Your Account            |
 |                                           |
 |   /-----------------------------------\   |
-|   | 🧑‍🎓 Enter Your Register Number    |   |
+|   |Reg no:|
 |   \-----------------------------------/   |
 |                                           |
 |   /-----------------------------------\   |
-|   | 🔑 Enter Your Temporary Password  |   |
-|   |   (This is also your Reg. No.)    |   |
+|   | 🔑Password    |   |
 |   \-----------------------------------/   |
 |                                           |
 |          +-------------------+          |
@@ -111,13 +110,13 @@ These are the core data collection forms for new users.
 |                                           |
 |       Welcome! Let's get you set up.      |
 |                                           |
-|   Register Number: [ u19pd23s007 (Read-Only) ] |
+|   Register Number: [ u19pd23s007  ] |
 |                                           |
 |   --- Your Details ---                    |
 |   First Name: [                     ]     |
 |   Last Name:  [                     ]     |
-|   Department: [ Select Department ▼ ]     |
-|   Year:       [ Select Year ▼       ]     |
+|   Department: [ Select Department ▼ ]BCA, B.COM, BA, BBA, BSW,      |
+|   Year:       [ Select Year ▼       ]1st year , 2nd year, 3rd year   |
 |   Phone No:   [                     ]     |
 |                                           |
 |   --- Your Login Info ---                 |
