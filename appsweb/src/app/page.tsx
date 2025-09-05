@@ -7,15 +7,12 @@ export default function HomePage() {
             <span className="text-2xl font-bold text-white">SWO</span>
           </div>
           <h1 className="text-4xl font-bold text-slate-800 mb-4">
-            Welcome to SWO 
-           
+            Welcome to SWO
           </h1>
-           <p>Don Bosco College</p>
-          <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            
-          </p>
+          <p>Don Bosco College</p>
+          <p className="text-lg text-slate-600 max-w-2xl mx-auto"></p>
         </div>
       </div>
     </div>
-  )
+  );
 }

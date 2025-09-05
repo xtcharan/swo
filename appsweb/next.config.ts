@@ -1,4 +1,4 @@
-import type { NextConfig } from "next";
+import type { NextConfig } from 'next';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 
