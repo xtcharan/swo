@@ -6,7 +6,10 @@
     "build": "tsc"
   },
   "dependencies": {
-    "zod": "^3.22.0"
+    "zod": "^3.22.0",
+    "@supabase/supabase-js": "^2.56.1",
+    "@react-native-async-storage/async-storage": "^2.2.0",
+    "react-native-url-polyfill": "latest"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",

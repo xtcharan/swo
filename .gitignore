@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+npm-debug.log
+yarn-error.log
+.env.local
+dist/
+*.log
